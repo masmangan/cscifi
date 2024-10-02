@@ -25,9 +25,11 @@ https://translate.google.com/?hl=pt-BR&tab=wT&sl=auto&tl=en&text=रामाय
 https://translate.google.com/?hl=pt-BR&tab=wT&sl=auto&tl=en&text=Αντικυθήρων&op=translate
 
 Ἀληθῆ διηγήματα (Alithí diigímata)
-()
+(True Story)
 https://translate.google.com/?hl=pt-BR&tab=wT&sl=auto&tl=en&text=Ἀληθῆ%20διηγήματα&op=translate
 
+WIKIPEDIA. Gilgamesh
+https://en.wikipedia.org/wiki/Gilgamesh
 
 WIKIPEDIA. Mahabharata
 https://en.wikipedia.org/wiki/Mahabharata
@@ -35,4 +37,11 @@ https://en.wikipedia.org/wiki/Mahabharata
 WIKIPEDIA. Ramayana
 https://en.wikipedia.org/wiki/Ramayana
 
+WIKIPEDIA. History of science fiction
+https://en.wikipedia.org/wiki/History_of_science_fiction
 
+WIKIPEDIA. Timeline of computing hardware before 1950
+https://en.wikipedia.org/wiki/Timeline_of_computing_hardware_before_1950
+
+WIKIPEDIA. Antikythera mechanism
+https://en.wikipedia.org/wiki/Antikythera_mechanism
