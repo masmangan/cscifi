@@ -37,6 +37,8 @@ https://en.wikipedia.org/wiki/Mahabharata
 WIKIPEDIA. Ramayana
 https://en.wikipedia.org/wiki/Ramayana
 
+# References 
+
 WIKIPEDIA. History of science fiction
 https://en.wikipedia.org/wiki/History_of_science_fiction
 
@@ -45,3 +47,22 @@ https://en.wikipedia.org/wiki/Timeline_of_computing_hardware_before_1950
 
 WIKIPEDIA. Antikythera mechanism
 https://en.wikipedia.org/wiki/Antikythera_mechanism
+
+Encyclopedia of Science Fiction. https://sf-encyclopedia.com/entry/brazil
+
+The Hugo Awards. https://www.thehugoawards.org/hugo-history/
+
+The Nebula Awards. https://nebulas.sfwa.org/award-year/2022/
+
+# Free Readings and Listenings
+
+Edgar Rice Burroughs. A Princess of Mars  https://www.gutenberg.org/ebooks/62
+
+H. P. Lovecraft. The call of Cthulhu  https://www.gutenberg.org/ebooks/68283
+
+Stansilaw Lem. Solaris https://librivox.bookdesign.biz/book/164426
+
+
+
+
+
