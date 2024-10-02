@@ -1,2 +1,2 @@
-# csifi
+# cscifi
 Computer Science Fiction
