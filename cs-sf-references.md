@@ -16,15 +16,19 @@ https://translate.google.com/?hl=pt-BR&tab=wT&sl=auto&tl=en&text=महाभा
 (Rama's Journey)
 https://translate.google.com/?hl=pt-BR&tab=wT&sl=auto&tl=en&text=रामायणम्&op=translate
 
-
 Αντικυθήρων (Antikythíron)
 ( )
 https://translate.google.com/?hl=pt-BR&tab=wT&sl=auto&tl=en&text=Αντικυθήρων&op=translate
 
+Ἀληθῆ διηγήματα (Alithí diigímata)
+()
+https://translate.google.com/?hl=pt-BR&tab=wT&sl=auto&tl=en&text=Ἀληθῆ%20διηγήματα&op=translate
+
+
 WIKIPEDIA. Mahabharata
 https://en.wikipedia.org/wiki/Mahabharata
 
-
+WIKIPEDIA. Ramayana
 https://en.wikipedia.org/wiki/Ramayana
 
 
