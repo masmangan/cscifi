@@ -60,7 +60,7 @@ Edgar Rice Burroughs. A Princess of Mars  https://www.gutenberg.org/ebooks/62
 
 H. P. Lovecraft. The call of Cthulhu  https://www.gutenberg.org/ebooks/68283
 
-Stansilaw Lem. Solaris https://librivox.bookdesign.biz/book/164426
+Stanislaw Lem. Solaris https://librivox.bookdesign.biz/book/164426
 
 
 
